@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portafolio Final Cesar Zuniga</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.css">
+    
+  </head>
+  <body>
+    <div class="fondo-encabezado">
+        <nav class="navbar navbar-expand-lg bg-transparente" style="position: fixed;">
+            <div class="container-fluid">
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  <a class="nav-link pasar-mouse letra-blanca" href="#Acerca-de-mi">Acerca de mí</a>
+                  <a class="nav-link pasar-mouse letra-blanca" href="#Proyectos">Proyectos</a>
+                  <a class="nav-link pasar-mouse letra-blanca" href="mailto:mildachavarria@gmail.com">Contacto</a>
+                </div>
+              </div>
+            </div>
+          </nav>
+          
+            <div class="enlinea-orden" style="margin: 40px 0 0 26%;">
+                <div class="col-md-9 px-0 centrado">
+                <h1 class="display-4 fst-italic" style="color: white; line-height: 85px;"> <b> Portafolio Profesional !</b> <br>Me llamo Cesar</h1>
+                <p class="lead my-3" style="color: rgb(5, 168, 141);"> <b>Estudiante de la carrera de Ingeniería.</b></p>
+                <!--<p class="lead mb-0"><a href="https://murosdeabsenta.com/generos-musicales/" class="text-white fw-bold">Continuar leyendo...</a></p>-->   
+                <img src="img/icono-pequeño.png" alt="" height="60px">
+                </div>
+            </div>
+            <div class="" style="width: 40px; margin-top: -30px;">
+                <a href="https://github.com/CesarZUNIGA12" target="_blank">
+                    <img src="img/github-logo.png" alt="GitHub" style="height: 25px; margin: 0 0 5px 10px;">
+                </a>
+                <a href="https://youtube.com/@czuniga9629?si=_QtzXkz-TnmNUkxU" target="_blank" style="margin-left: 10px;">
+                    <img src="img/youtube-logo.png" href="" alt="YouTube" style="height: 20px;">
+                </a>
+            </div>
+    </div>
+    <div class="enlinea-orden" style="width: 100%; padding: 0 0 0 10%;">
+        <div class="cajas-info">
+            <A name="Acerca-de-mi"></A>
+            <h3>Sobre mi</h3>
+            <p class="centrado" style="font-family: Verdana; line-height: 27px;"><!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portafolio Final Cesar zuniga</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.css">
+    
+  </head>
+  <body>
+    <div class="fondo-encabezado">
+        <nav class="navbar navbar-expand-lg bg-transparente" style="position: fixed;">
+            <div class="container-fluid">
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  <a class="nav-link pasar-mouse letra-blanca" href="#Acerca-de-mi">Acerca de mí</a>
+                  <a class="nav-link pasar-mouse letra-blanca" href="#Proyectos">Proyectos</a>
+                  <a class="nav-link pasar-mouse letra-blanca" href="mailto:mildachavarria@gmail.com">Contacto</a>
+                </div>
+              </div>
+            </div>
+          </nav>
+          
+            <div class="enlinea-orden" style="margin: 40px 0 0 26%;">
+                <div class="col-md-9 px-0 centrado">
+                <h1 class="display-4 fst-italic" style="color: white; line-height: 85px;"> <b>¡Hola!</b> <br>Me llamo Milda</h1>
+                <p class="lead my-3" style="color: rgb(5, 168, 141);"> <b>Estudiante de la carrera de Ingeniería en Sistemas cursando mi segundo periodo académico.</b></p>
+                <!--<p class="lead mb-0"><a href="https://murosdeabsenta.com/generos-musicales/" class="text-white fw-bold">Continuar leyendo...</a></p>-->   
+                <img src="img/icono-pequeño.png" alt="" height="60px">
+                </div>
+            </div>
+            <div class="" style="width: 40px; margin-top: -30px;">
+                <a href="https://github.com/cesarZUNIGA12" target="_blank">
+                    <img src="img/github-logo.png" alt="GitHub" style="height: 25px; margin: 0 0 5px 10px;">
+                </a>
+                <a href="https://youtube.com/@czuniga9629?si=_QtzXkz-TnmNUkxU" target="_blank" style="margin-left: 10px;">
+                    <img src="img/youtube-logo.png" href="" alt="YouTube" style="height: 20px;">
+                </a>
+            </div>
+    </div>
+    <div class="enlinea-orden" style="width: 100%; padding: 0 0 0 10%;">
+        <div class="cajas-info">
+            <A name="Acerca-de-mi"></A>
+            <h3>Sobre mi</h3>
+            <p class="centrado" style="font-family: Verdana; line-height: 27px;"Hola mi nombre es Cesar Zuniga soy Bachiller Tecnico En Informatica y actalemten curso la carrera de Ingenieria en sistemas 
+                .</p>
+                  <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary boton btn-outline-dark" data-bs-toggle="modal" data-bs-target="#ModalMiInfo" style="margin-bottom: 20px;">
+                Más acerca de mí
+            </button>
+            
+            <!-- Modal -->
+            <div class="modal fade" id="ModalMiInfo" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content modalmio">
+                    <div class="modal-body" style="font-size: 18px; line-height: 50px;">
+                    <div class="centrado">
+                      <h1 class="modal-title fs-5" id="exampleModalLabel" style="display: inline-flex;"> <b><u>INFORMACIÓN PERSONAL</u></b></h1>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="background-color: white; display: inline-flex; float: right;"></button>
+                    </div>
+                    <b>Nombre:</b> Cesar David Zuniga Espinoza <br>
+                    <b>País:</b> Honduras <br>
+                    <b>Teléfono:</b> +8795-0986 <br>
+                    <b>Correo Electrónico:</b> zunigacesar092@mail.com <br>
+                    <b>Profesión: </b> Estudiante de ingeniería en Sistemas en la UNAH
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="cajas-info">
+            <h3>Base en Honduras</h3>
+            <img src="img/foto.png" alt="Foto" style="height: 250px; margin: 2% 0 5% 31%; border-radius: 50px;">
+        </div>
+    </div>
+    <div style="height: 500px; background-color: black;">
+
+        <h3 style="padding-top: 25px;">Herramientas y Tecnologías</h3>
+        <p class="centrado" style="color: white; line-height: 60px;">
+            Conocimientos básicos en programación, desarrollo web y diseño digital con:
+        </p>
+        <div class="enlinea-orden" style="margin-left: 20%; margin-top: -20px;">
+            <div class="espaciado">
+                <div class="circular-progress cp-CSharp"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-HTML"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-CSS"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-Bootstrap"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-Mysql"></div>
+            </div>
+        </div>
+        <div class="enlinea-orden" style="margin-left: 25%;">
+             <div class="espaciado">
+                <div class="circular-progress cp-AdPtshp"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-AdIlltdr"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-CrlDrw"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-PHP"></div>
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <A name="Proyectos"></A>
+        <h3 style="padding-top: 25px;">Proyectos</h3>
+        <p class="centrado" style="color: rgb(0, 0, 0); line-height: 60px;">
+            Sitios Web:
+        </p>
+        <!--Carrusel-->
+        <div class="enlinea-orden" style="margin-bottom: 60px;">
+            <div id="Carrusel1" class="carousel slide" data-bs-ride="true" style="width: 500px; height: 300px; margin: 0 7% 0 7%;">
+                <h5 class="centrado"><u>Proyecto 1</u><br>Replica de WordPress</h5>
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active" style="height: 300px;">
+                    <img src="img/proyecto1-1.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto1-2.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto1-3.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#Carrusel1" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Carrusel1" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+              <div id="Carrusel2" class="carousel slide" data-bs-ride="true" style="width: 500px; height: 300px; margin: 0 7% 0 7%;">
+                <h5 class="centrado"><u>Proyecto 2</u><br> Información de Saga de Libros</h5>
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active" style="height: 300px;">
+                    <img src="img/proyecto2-1.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto2-2.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto2-3.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#Carrusel2" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Carrusel2" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+        </div>
+    </div>
+    <footer class="blog-footer centrado" style="background-color: #000; color: #fff;">
+        <br>
+        <p>Contactame a mis redes sociales <br></p>
+        <div class="" style="align-items: center;">
+            <a href="https://github.com/MildaChavarria" target="_blank">
+                <img src="img/github-logo.png" alt="GitHub" style="height: 25px; margin: 0 0 5px 10px;">
+            </a>
+            <a href="https://youtube.com/@mildajaninachavarriatache5933?si=_QtzXkz-TnmNUkxU" target="_blank">
+                <img src="img/youtube-logo.png" href="" alt="YouTube" style="height: 20px;">
+            </a>
+        </div>
+        <img src="" alt="">
+      </footer>
+                         
+    </body>
+</html>l.</p>
+                  <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary boton btn-outline-dark" data-bs-toggle="modal" data-bs-target="#ModalMiInfo" style="margin-bottom: 20px;">
+                Más acerca de mí
+            </button>
+            
+            <!-- Modal -->
+            <div class="modal fade" id="ModalMiInfo" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content modalmio">
+                    <div class="modal-body" style="font-size: 18px; line-height: 50px;">
+                    <div class="centrado">
+                      <h1 class="modal-title fs-5" id="exampleModalLabel" style="display: inline-flex;"> <b><u>INFORMACIÓN PERSONAL</u></b></h1>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="background-color: white; display: inline-flex; float: right;"></button>
+                    </div>
+                    <b>Nombre:</b> Milda Janina Chavarría Tache <br>
+                    <b>Fecha de Nacimiento:</b> 04 de Mayo de 2004 <br>
+                    <b>País:</b> Honduras <br>
+                    <b>Teléfono:</b> +504 9958-7275 <br>
+                    <b>Correo Electrónico:</b> zunigacesar092@gmail.com <br>
+                    <b>Profesión: </b> Estudiante de ingeniería en Sistemas en la UNAH
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="cajas-info">
+            <h3>Base en Honduras</h3>
+            <img src="img/foto.png" alt="Foto" style="height: 250px; margin: 2% 0 5% 31%; border-radius: 50px;">
+        </div>
+    </div>
+    <div style="height: 500px; background-color: black;">
+
+        <h3 style="padding-top: 25px;">Herramientas y Tecnologías</h3>
+        <p class="centrado" style="color: white; line-height: 60px;">
+            Conocimientos básicos en programación, desarrollo web y diseño digital con:
+        </p>
+        <div class="enlinea-orden" style="margin-left: 20%; margin-top: -20px;">
+            <div class="espaciado">
+                <div class="circular-progress cp-CSharp"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-HTML"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-CSS"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-Bootstrap"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-Mysql"></div>
+            </div>
+        </div>
+        <div class="enlinea-orden" style="margin-left: 25%;">
+             <div class="espaciado">
+                <div class="circular-progress cp-AdPtshp"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-AdIlltdr"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-CrlDrw"></div>
+            </div>
+            <div class="espaciado">
+                <div class="circular-progress cp-PHP"></div>
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <A name="Proyectos"></A>
+        <h3 style="padding-top: 25px;">Proyectos</h3>
+        <p class="centrado" style="color: rgb(0, 0, 0); line-height: 60px;">
+            Sitios Web:
+        </p>
+        <!--Carrusel-->
+        <div class="enlinea-orden" style="margin-bottom: 60px;">
+            <div id="Carrusel1" class="carousel slide" data-bs-ride="true" style="width: 500px; height: 300px; margin: 0 7% 0 7%;">
+                <h5 class="centrado"><u>Proyecto 1</u><br>Replica de WordPress</h5>
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#Carrusel1" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active" style="height: 300px;">
+                    <img src="img/proyecto1-1.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto1-2.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto1-3.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#Carrusel1" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Carrusel1" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+              <div id="Carrusel2" class="carousel slide" data-bs-ride="true" style="width: 500px; height: 300px; margin: 0 7% 0 7%;">
+                <h5 class="centrado"><u>Proyecto 2</u><br> Información de Saga de Libros</h5>
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#Carrusel2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active" style="height: 300px;">
+                    <img src="img/proyecto2-1.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto2-2.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                  <div class="carousel-item" style="height: 300px;">
+                    <img src="img/proyecto2-3.PNG" class="d-block" alt="..." style="width: 500px;">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#Carrusel2" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Carrusel2" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+        </div>
+    </div>
+    <footer class="blog-footer centrado" style="background-color: #000; color: #fff;">
+        <br>
+        <p>Contactame a mis redes sociales <br></p>
+        <div class="" style="align-items: center;">
+            <a href="https://github.com/cesarZUNIGA12" target="_blank">
+                <img src="img/github-logo.png" alt="GitHub" style="height: 25px; margin: 0 0 5px 10px;">
+            </a>
+            <a href="https://youtube.com/@czuniga9629?si=_QtzXkz-TnmNUkxU" target="_blank">
+                <img src="img/youtube-logo.png" href="" alt="YouTube" style="height: 20px;">
+            </a>
+        </div>
+        <img src="" alt="">
+      </footer>
+                         
+    </body>
+</html>
